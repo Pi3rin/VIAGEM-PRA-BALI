@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  margin-top: ;
+}
+
+ul {
+  list-style-type: none;
+  line-height: 25px;
+  padding: 0px;
+  display: flex;
+}
+
+.nav-pills {
+  background-color: black;
+  text-align: center;
+}
+
+.nav-pills li {
+  align-content: flex-start;
+  width: 1029px;
+  height: fit-content
+}
+
+.imagem-1 {
+  clear: left;
+  margin-left: 5em;
+  margin-top: 0px;
+
+}
+
+.botao{
+  clear: right;
+  margin-left: ;
+  height:auto;
+  width: 219px;
+}
